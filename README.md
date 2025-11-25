@@ -183,15 +183,38 @@ Current technical limitations:
 
 ## Screenshots
 
-_(To be added)_
-
-Suggested images:
-
-- main grid with albums,
-- NowPlaying section,
-- TracklistPopover,
-- detached MiniPlayer,
-- About window.
+<table>
+  <tr>
+    <td align="center">
+      <strong>Library</strong><br/>
+      <img src="screenshots/library.png" width="420" alt="Frida Plays Music – Library view"/>
+    </td>
+    <td align="center">
+      <strong>Now Playing</strong><br/>
+      <img src="screenshots/nowplaying.png" width="420" alt="Frida Plays Music – Now Playing bar"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Album detail</strong><br/>
+      <img src="screenshots/album-detail.png" width="420" alt="Frida Plays Music – Album detail view"/>
+    </td>
+    <td align="center">
+      <strong>Tracklist popup</strong><br/>
+      <img src="screenshots/popup.png" width="420" alt="Frida Plays Music – Tracklist popover"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Mini player</strong><br/>
+      <img src="screenshots/miniplayer.png" width="420" alt="Frida Plays Music – Mini player"/>
+    </td>
+    <td align="center">
+      <strong>About window</strong><br/>
+      <img src="screenshots/about.png" width="420" alt="Frida Plays Music – About window"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
