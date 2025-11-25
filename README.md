@@ -2,7 +2,7 @@ Frida Plays Music
 =================
 
 A macOS music player that treats every record like an artwork.  
-No playlists. No streaming. No cloud. No trackers.
+No playlists. No streaming. No cloud. No trackers. No fake Hi-Res.
 
 ---
 
@@ -20,6 +20,16 @@ It offers:
 
 **Philosophy**  
 > A record is an artwork. Frida is a small gallery for your own records, not a jukebox.
+
+---
+
+macOS compatibility
+	•	Supported and tested: macOS Sequoia 15.x
+  •	Not supported yet: macOS Sonoma 14.x
+	•	Not supported yet: macOS Tahoe 26.x
+
+Frida Plays Music is currently developed and validated on macOS Sequoia.
+Support for Sonoma and Tahoe will be added later, once full testing has been performed — especially for audio stability (AVAudioEngine + HAL/BitPerfect), which can behave differently across macOS versions.
 
 ---
 
