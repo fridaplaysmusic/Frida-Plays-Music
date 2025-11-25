@@ -240,7 +240,7 @@ It has **not yet been tested on the latest macOS release**.
 ## Support / Contact
 
 - Email: **fridaplaysmusic@proton.me**  
-- “Buy me a coffee (or a tea)”: https://buymeacoffee.com/nepomuc
+- “Buy me a ko-fi (or a tea)”: https://ko-fi.com/fridaplaysmusic
 
 Credits: **Nepomuc**
 
@@ -430,6 +430,6 @@ L’app sera distribuée via **GitHub Releases**.
 ### Support / Contact
 
 - Email : **fridaplaysmusic@proton.me**  
-- « Buy me a coffee (ou un thé) » : https://buymeacoffee.com/nepomuc
+- « Buy me a Ko-Fi (ou un thé) » : https://ko-fi.com/fridaplaysmusic
 
 Crédits : **Nepomuc**
