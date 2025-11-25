@@ -240,9 +240,9 @@ It has **not yet been tested on the latest macOS release**.
 ## Support / Contact
 
 - Email: **fridaplaysmusic@proton.me**  
-- “Buy me a coffee (or a tea)”: link will be added in the About window and on the GitHub page.
+- “Buy me a coffee (or a tea)”: https://buymeacoffee.com/nepomuc
 
-Credits: **Nepomuk**
+Credits: **Nepomuc**
 
 ---
 
@@ -430,6 +430,6 @@ L’app sera distribuée via **GitHub Releases**.
 ### Support / Contact
 
 - Email : **fridaplaysmusic@proton.me**  
-- « Buy me a coffee (ou un thé) » : lien ajouté dans la fenêtre À propos et sur la page GitHub.
+- « Buy me a coffee (ou un thé) » : https://buymeacoffee.com/nepomuc
 
-Crédits : **Nepomuk**
+Crédits : **Nepomuc**
